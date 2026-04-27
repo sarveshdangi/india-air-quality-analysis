@@ -1,3 +1,5 @@
+## 📌 Project Overview
+This project analyzes air quality data across India and builds a machine learning model to predict pollution levels.
 # 🌍 India Air Quality Analysis & Prediction
 
 ## 📌 Overview
