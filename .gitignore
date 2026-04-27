@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Virtual environment
+.env
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large or unnecessary files
+*.log
